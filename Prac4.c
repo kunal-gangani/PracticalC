@@ -1,3 +1,6 @@
+/*
+Q.4 WAP to print all odd numbers from a given 1D array using Pointer.
+	*/
 #include<stdio.h>
 void main(){
 	int size;
